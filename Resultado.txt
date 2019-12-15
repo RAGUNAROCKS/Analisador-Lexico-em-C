@@ -1,0 +1,38 @@
+
+Lendo o ArquivoFonte.mln
+
+Palavra c não reconhecida
+Palavra Xv não reconhecida
+Palavra Yv não reconhecida
+Palavra CALCULO não reconhecida
+Palavra DE não reconhecida
+Palavra EQUACAO não reconhecida
+Palavra DO não reconhecida
+Palavra SEGUNDO não reconhecida
+Palavra GRAU não reconhecida
+Palavra Informe não reconhecida
+Palavra A não reconhecida
+Palavra Informe não reconhecida
+Palavra B não reconhecida
+Palavra Informe não reconhecida
+Palavra C não reconhecida
+Palavra c não reconhecida
+Palavra c não reconhecida
+Palavra Delta não reconhecida
+Palavra Delta não reconhecida
+Palavra Negativo não reconhecida
+Palavra calcular não reconhecida
+Palavra Delta não reconhecida
+Palavra B não reconhecida
+Palavra B não reconhecida
+Palavra O não reconhecida
+Palavra Xv não reconhecida
+Palavra \ não reconhecida
+Palavra Yv não reconhecida
+Palavra \ não reconhecida
+Palavra O não reconhecida
+Palavra Xv não reconhecida
+Palavra Yv não reconhecida
+Palavra FIM não reconhecida
+ Falta de fechamento de código.
+ ArquivoFonte.mln contendo erros.
